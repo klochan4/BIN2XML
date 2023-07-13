@@ -1,0 +1,14 @@
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\bin\Debug\Porovnavanie suborov-generovanie xml.exe.config
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\bin\Debug\Porovnavanie suborov-generovanie xml.exe
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\bin\Debug\Porovnavanie suborov-generovanie xml.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.csproj.AssemblyReference.cache
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie_suborov_generovanie_xml.Properties.Resources.resources
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.csproj.GenerateResource.cache
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.csproj.CopyComplete
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.exe
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie suborov-generovanie xml.pdb
+D:\Google Drive Sync\jaspravim\programovanie\Porovnavanie suborov-generovanie xml\Porovnavanie suborov-generovanie xml\obj\Debug\Porovnavanie_suborov_generovanie_xml.Extensions.resources
